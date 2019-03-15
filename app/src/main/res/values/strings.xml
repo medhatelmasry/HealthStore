@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Health Store</string>
+
+    <string name="title_top">Top Fragment</string>
+
+    <string-array name="bakery_items">
+        <item>Croissant</item>
+        <item>Muffin</item>
+        <item>Cookie</item>
+    </string-array>
+
+    <string-array name="produce_items">
+        <item>Carrot</item>
+        <item>Cucumber</item>
+        <item>Cabbage</item>
+    </string-array>
+
+    <string-array name="seafood_items">
+        <item>Crab</item>
+        <item>Shrimp</item>
+        <item>Salmon</item>
+    </string-array>
+
+    <string name="home_tab">Home</string>
+    <string name="bakery_tab">Bakery</string>
+    <string name="produce_tab">Produce</string>
+    <string name="seafood_tab">Seafood</string>
+
+</resources>
